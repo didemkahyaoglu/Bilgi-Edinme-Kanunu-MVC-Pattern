@@ -75,3 +75,6 @@ c) Reddedilen başvuru sayısı ve bunların dağılımını gösterir istatisti
 d) Gizli ya da sır niteliğindeki bilgiler çıkarılarak ya da bu nitelikteki bilgiler ayrılarak bilgi veya belgelere erişim sağlanan başvuru sayısını,
 e) Başvurunun reddedilmesi üzerine itiraz edilen başvuru sayısı ile bunların sonuçlarını,
 gösteren raporlar alınır.
+
+![dbSS](https://user-images.githubusercontent.com/45897290/135770487-d34d5637-c8bb-4ed6-93fd-fea279ec3f5b.png)
+
