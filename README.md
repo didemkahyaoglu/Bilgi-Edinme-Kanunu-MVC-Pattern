@@ -1,5 +1,7 @@
 # Bilgi-Edinme-Kanunu-MVC-Pattern
 
+4982 sayılı Bilgi Edinme Hakkı Kanunu kapsamında tanınan bilgi edinme hakkı ile kişiler, kurum ve kuruluşların kayıtlarında bulunan bilgi ve belgeleri talep etmek için bu yazılımı kullanabilir. 
+
 Sistem pek çok yazılımın yanı sıra çalışan bir "Bilgi Edinme Modülü" yazılımı olacaktır. Sistemde 2 tip kullanıcı olacaktır:
 1) Bilgi edinme başvurusu yapan
 2) Bilgi edinme başvurusunu yöneten
